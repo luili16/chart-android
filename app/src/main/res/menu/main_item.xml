@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/bar_view"
+        android:id="@+id/action_bar"
+        app:showAsAction="never"
+        />
+    <item android:title="bar set view"
+        android:id="@+id/action_bar_set"
+        app:showAsAction="never"/>
+
+    <item android:title="bar line view"
+        android:id="@+id/action_bar_line"
+        app:showAsAction="never"
+        />
+    <item android:title="bar set line"
+        android:id="@+id/action_bar_set_line"
+        app:showAsAction= "never"
+        />
+</menu>
